@@ -1,2 +1,5 @@
 # ignore ipynb checkpoint files
 .ipynb_checkpoints
+
+# ignore html files
+*.html
