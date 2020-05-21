@@ -1,3 +1,7 @@
+# ignore resource folders
+resources/
+spam_data/
+
 # ignore ipynb checkpoint files
 .ipynb_checkpoints
 
